@@ -1,0 +1,60 @@
+.navbar{
+    display: flex;
+    justify-content: flex-end;
+    background-color: black;
+}
+
+.navbar2{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-color: black;
+}
+
+#barElement{
+    color: #FFD700;
+    font-family: Helvetica;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: 50px;
+    margin-top: 20px;
+}
+
+#barElement2{
+    color: white;
+    font-family: Helvetica;
+    font-size: 20px;
+    font-weight: bold;
+    margin-right: 50px;
+}
+
+#barElement:hover{
+    color: white;
+}
+
+img{
+    width: 1881px;
+}
+
+#barElement2 img{
+    width: 350px;
+    margin-right: 400px;
+}
+
+#noLinkDec1{
+    text-decoration: none;
+    color: #FFD700
+}
+
+#noLinkDec1:hover{
+    color: white;
+}
+
+#noLinkDec2{
+    text-decoration: none;
+    color: white;
+}
+
+#noLinkDec2:hover{
+    color: #FFD700;
+}
